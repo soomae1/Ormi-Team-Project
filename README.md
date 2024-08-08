@@ -130,6 +130,16 @@
 
 ## 🌟 화면 설계서
 
+<table>
+  <tr>
+    <td>
+    로그인 <br>
+ <br>
+      <img src=![image](https://github.com/user-attachments/assets/f3a934d2-d303-4364-a9e3-800838d1c24b)
+ width="100" height="100"><br>
+
+  </tr>
+</table>
 
 
 ---
