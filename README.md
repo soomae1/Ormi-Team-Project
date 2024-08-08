@@ -1,7 +1,5 @@
 # 🌍 가봤저니
 
-![asas](https://github.com/user-attachments/assets/ca4719fb-fe21-40b4-833a-6e38668b0090)
-
 <p align="center">
   <h3 align="center">🌍 가봤저니: 여행 리뷰 블로그 서비스 🌍</h3>
 </p>
@@ -9,6 +7,8 @@
 <p align="center">
 	<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+가봤저니!&color=FFAE35&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
+
+![asas](https://github.com/user-attachments/assets/ca4719fb-fe21-40b4-833a-6e38668b0090)
 
 
 
