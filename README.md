@@ -120,7 +120,7 @@
 ## 📂 프로젝트 구조
 
 ⚙️ BE 프로젝트 구조
-
+VS Code file-tree-generartor
 
 🌐 FE 프로젝트 구조
 
