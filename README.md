@@ -113,6 +113,10 @@
 
 이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
 
+## 🔐 ERD
+
+![image](https://github.com/user-attachments/assets/f69cc33c-55e3-47f2-8de5-871065c5b8db)
+
 ---
 
 가봤저니와 함께 즐거운 여행 리뷰를 작성해보세요! 💙🚗📸📝
