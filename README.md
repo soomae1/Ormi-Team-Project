@@ -131,14 +131,12 @@
 ## 🌟 화면 설계서
 
 <table>
-  <tr>
-    <td>
-    로그인 <br>
- <br>
-      <img src= ![제목 없음](https://github.com/user-attachments/assets/a85b31bc-f62b-4fa0-92b3-fe0c19913099)
- width="500" height="500"><br>
-</td>
-  </tr>
+    <tr>
+        <td>
+            로그인 <br>
+            <img src= "C:\Users\김수민\Desktop\그림2.png" width="500" height="500"><br>
+        </td>
+    </tr>
 </table>
 
 
