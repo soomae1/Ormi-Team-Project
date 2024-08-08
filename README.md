@@ -122,6 +122,7 @@
 
 ![image](https://github.com/user-attachments/assets/f69cc33c-55e3-47f2-8de5-871065c5b8db)
 
+
 ## 📂 프로젝트 구조
 
 ⚙️ BE 프로젝트 구조
@@ -134,7 +135,7 @@
     <tr>
         <td>
             로그인 <br>
-           ![image](https://github.com/user-attachments/assets/577179df-81fc-48c8-9243-1c16793a7dbc)<br>
+            <img src= ![image](https://github.com/user-attachments/assets/f705d895-56cf-439f-bb9a-06ea80540028) width="500" height="500"><br>
         </td>
     </tr>
 </table>
