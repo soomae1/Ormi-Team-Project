@@ -135,7 +135,7 @@
 
 | 로그인 | 회원가입 |
 |---|---|
-| (https://github.com/user-attachments/assets/250a30c4-d7dd-426c-a63d-848f57bb76b5) | (https://github.com/user-attachments/assets/5843ee38-45a7-4b00-a3b6-70269848834c) |
+| https://github.com/user-attachments/assets/250a30c4-d7dd-426c-a63d-848f57bb76b5 | https://github.com/user-attachments/assets/5843ee38-45a7-4b00-a3b6-70269848834c |
 | 제목2 | 내용2 | 비고2 |
 | 제목3 | 내용3 | 비고3 |
 | 제목4 | 내용4 | 비고4 |
