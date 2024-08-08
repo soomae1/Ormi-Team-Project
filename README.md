@@ -2,7 +2,6 @@
 
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://github.dev/tjtjdnjswhd/journeyedn-t)
 <br>
-[Deploy URL](http://34.139.2.91:8080/?)
 
 <p align="center">
   <h3 align="center">🌍 가봤저니: 여행 리뷰 블로그 서비스 🌍</h3>
@@ -12,11 +11,13 @@
 	<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+가봤저니!&color=FFAE35&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
+
 배포 URL : http://34.139.2.91:8080/
 
 정지 계정 아이디 test11 & 비밀번호 Test1234!
 
 어드민 관리자 계정 아이디 test10 & 비밀번호 Test1234! 
+
 
 ## ⚡ 프로젝트 소개
 
@@ -135,7 +136,7 @@
     <tr>
         <td>
             로그인 <br>
-            <img src= "C:\Users\김수민\Desktop\제목 없음.png" width="500" height="500"><br>
+            <img src= ![asas](https://github.com/user-attachments/assets/ad43e916-18b3-4904-b9ce-661345b9adb2) width="400" height="400"><br>
         </td>
     </tr>
 </table>
