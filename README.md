@@ -134,7 +134,7 @@
     <tr>
         <td>
             로그인 <br>
-            <img src= "C:\Users\김수민\Desktop\그림2.png" width="500" height="500"><br>
+           ![그림2](https://github.com/user-attachments/assets/574584a8-3715-4ef6-9e95-88ae93847a1f)<br>
         </td>
     </tr>
 </table>
