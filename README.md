@@ -135,9 +135,9 @@
     <td>
     로그인 <br>
  <br>
-      <img src=![image](https://github.com/user-attachments/assets/f3a934d2-d303-4364-a9e3-800838d1c24b)
- width="100" height="100"><br>
-
+      <img src= ![제목 없음](https://github.com/user-attachments/assets/a85b31bc-f62b-4fa0-92b3-fe0c19913099)
+ width="500" height="500"><br>
+</td>
   </tr>
 </table>
 
