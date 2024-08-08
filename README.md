@@ -119,7 +119,7 @@
 
 이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
 
-## 🔐 ERD
+## 🔐 데이터베이스 모델링 (ERD)
 
 ![image](https://github.com/user-attachments/assets/f69cc33c-55e3-47f2-8de5-871065c5b8db)
 
@@ -136,7 +136,7 @@
     <tr>
         <td>
             로그인 <br>
-            <img src= https://github.com/user-attachments/assets/ab1c78a0-4c08-4420-87b6-6ed923b7c0d2 width="500" height="500"><br>
+            <img src= https://github.com/user-attachments/assets/ab1c78a0-4c08-4420-87b6-6ed923b7c0d2 width="600" height="600"><br>
         </td>
     </tr>
 </table>
