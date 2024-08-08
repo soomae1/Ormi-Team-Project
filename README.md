@@ -135,7 +135,7 @@
     <tr>
         <td>
             로그인 <br>
-            <img src= ![image](https://github.com/user-attachments/assets/f705d895-56cf-439f-bb9a-06ea80540028) width="500" height="500"><br>
+            <img src= "C:\Users\김수민\Desktop\제목 없음.png" width="500" height="500"><br>
         </td>
     </tr>
 </table>
