@@ -134,7 +134,7 @@
     <tr>
         <td>
             로그인 <br>
-           ![그림2](https://github.com/user-attachments/assets/574584a8-3715-4ef6-9e95-88ae93847a1f)<br>
+           ![image](https://github.com/user-attachments/assets/577179df-81fc-48c8-9243-1c16793a7dbc)<br>
         </td>
     </tr>
 </table>
