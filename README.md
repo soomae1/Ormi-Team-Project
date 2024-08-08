@@ -12,6 +12,9 @@
 	<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+가봤저니!&color=FFAE35&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
+배포 URL : http://34.139.2.91:8080/
+정지 계정 아이디 test11 & 비밀번호 Test1234!
+어드민 관리자 계정 아이디 test10 & 비밀번호 Test1234! 
 
 ## ⚡ 프로젝트 소개
 
@@ -121,160 +124,10 @@
 
 ⚙️ BE 프로젝트 구조
 
-📦src
- ┣ 📂main
- ┃ ┣ 📂java
- ┃ ┃ ┗ 📂com
- ┃ ┃ ┃ ┗ 📂example
- ┃ ┃ ┃ ┃ ┗ 📂journeyednt
- ┃ ┃ ┃ ┃ ┃ ┣ 📂controller
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜AdminController.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜CountryController.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜IndexController.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜PostController.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜PostImageController.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜UserController.java
- ┃ ┃ ┃ ┃ ┃ ┣ 📂converter
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜StringListConverter.java
- ┃ ┃ ┃ ┃ ┃ ┣ 📂domain
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂post
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜PostCreate.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜PostDto.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂user
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜UserDto.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜UserLogin.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜UserSignup.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜CityDto.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜CountryDto.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜PostImageDto.java
- ┃ ┃ ┃ ┃ ┃ ┣ 📂entity
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜City.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜Country.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜Post.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜PostImage.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜Role.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜User.java
- ┃ ┃ ┃ ┃ ┃ ┣ 📂exception
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜GlobalExceptionHandler.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜UserException.java
- ┃ ┃ ┃ ┃ ┃ ┣ 📂global
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂constant
- ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜RegExp.java
- ┃ ┃ ┃ ┃ ┃ ┣ 📂repository
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜CityRepository.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜CountryRepository.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜PostImageRepository.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜PostRepository.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜RoleRepository.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜UserRepository.java
- ┃ ┃ ┃ ┃ ┃ ┣ 📂result
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜ErrorCode.java
- ┃ ┃ ┃ ┃ ┃ ┣ 📂security
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜CustomAuthenticationFailureHandler.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜CustomUserDetailsService.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜PasswordEncoderConfig.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜SecurityConfig.java
- ┃ ┃ ┃ ┃ ┃ ┣ 📂service
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜CityService.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜CountryService.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜PostImageService.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜PostService.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜RoleService.java
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜UserService.java
- ┃ ┃ ┃ ┃ ┃ ┗ 📜JourneyedntApplication.java
-
 🌐 FE 프로젝트 구조
 
-┃ ┗ 📂resources
- ┃ ┃ ┣ 📂static
- ┃ ┃ ┃ ┣ 📂css
- ┃ ┃ ┃ ┃ ┗ 📜style.css
- ┃ ┃ ┃ ┣ 📂img
- ┃ ┃ ┃ ┃ ┣ 📜accountid_icon.svg
- ┃ ┃ ┃ ┃ ┣ 📜Alarm.svg
- ┃ ┃ ┃ ┃ ┣ 📜arrow-back.svg
- ┃ ┃ ┃ ┃ ┣ 📜arrow.svg
- ┃ ┃ ┃ ┃ ┣ 📜attach_file.svg
- ┃ ┃ ┃ ┃ ┣ 📜Chevron Right.svg
- ┃ ┃ ┃ ┃ ┣ 📜CloseButton.svg
- ┃ ┃ ┃ ┃ ┣ 📜Lock.svg
- ┃ ┃ ┃ ┃ ┣ 📜Logo.svg
- ┃ ┃ ┃ ┃ ┣ 📜mainImg.png
- ┃ ┃ ┃ ┃ ┣ 📜scroll_up.svg
- ┃ ┃ ┃ ┃ ┣ 📜search.svg
- ┃ ┃ ┃ ┃ ┣ 📜tag.svg
- ┃ ┃ ┃ ┃ ┣ 📜UserName.svg
- ┃ ┃ ┃ ┃ ┗ 📜UserNickname.svg
- ┃ ┃ ┃ ┣ 📂js
- ┃ ┃ ┃ ┃ ┣ 📜alertMessage.js
- ┃ ┃ ┃ ┃ ┣ 📜cityRanking.js
- ┃ ┃ ┃ ┃ ┣ 📜postTag.js
- ┃ ┃ ┃ ┃ ┣ 📜postWriteRating.js
- ┃ ┃ ┃ ┃ ┣ 📜scrollUpBtn.js
- ┃ ┃ ┃ ┃ ┣ 📜selectAddress.js
- ┃ ┃ ┃ ┃ ┗ 📜withdraw.js
- ┃ ┃ ┃ ┗ 📂lib
- ┃ ┃ ┃ ┃ ┗ 📂bootstrap-5.3.3-dist
- ┃ ┃ ┃ ┃ ┃ ┣ 📂css
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-grid.css
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-grid.css.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-grid.min.css
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-grid.min.css.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-grid.rtl.css
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-grid.rtl.css.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-grid.rtl.min.css
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-grid.rtl.min.css.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-reboot.css
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-reboot.css.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-reboot.min.css
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-reboot.min.css.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-reboot.rtl.css
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-reboot.rtl.css.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-reboot.rtl.min.css
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-reboot.rtl.min.css.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-utilities.css
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-utilities.css.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-utilities.min.css
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-utilities.min.css.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-utilities.rtl.css
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-utilities.rtl.css.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-utilities.rtl.min.css
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap-utilities.rtl.min.css.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.css
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.css.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.min.css
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.min.css.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.rtl.css
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.rtl.css.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.rtl.min.css
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.rtl.min.css.map
- ┃ ┃ ┃ ┃ ┃ ┗ 📂js
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.bundle.js
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.bundle.js.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.bundle.min.js
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.bundle.min.js.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.esm.js
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.esm.js.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.esm.min.js
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.esm.min.js.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.js
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.js.map
- ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📜bootstrap.min.js
- ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜bootstrap.min.js.map
- ┃ ┃ ┣ 📂templates
- ┃ ┃ ┃ ┣ 📜adminIndex.html
- ┃ ┃ ┃ ┣ 📜deleteNotice.html
- ┃ ┃ ┃ ┣ 📜deletePost.html
- ┃ ┃ ┃ ┣ 📜header.html
- ┃ ┃ ┃ ┣ 📜index.html
- ┃ ┃ ┃ ┣ 📜login.html
- ┃ ┃ ┃ ┣ 📜notice.html
- ┃ ┃ ┃ ┣ 📜noticeEdit.html
- ┃ ┃ ┃ ┣ 📜postCreate.html
- ┃ ┃ ┃ ┣ 📜postDetail.html
- ┃ ┃ ┃ ┣ 📜postSearch.html
- ┃ ┃ ┃ ┣ 📜signup.html
- ┃ ┃ ┃ ┗ 📜staticFile.html
+## 🌟 화면 설계서
+
 
 
 ---
