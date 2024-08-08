@@ -1,7 +1,6 @@
 # 🌍 가봤저니
 
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://github.dev/tjtjdnjswhd/journeyedn-t)
-<br>
+![asas](https://github.com/user-attachments/assets/ca4719fb-fe21-40b4-833a-6e38668b0090)
 
 <p align="center">
   <h3 align="center">🌍 가봤저니: 여행 리뷰 블로그 서비스 🌍</h3>
