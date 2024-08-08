@@ -136,7 +136,7 @@
     <tr>
         <td>
             로그인 <br>
-            <img src= https://github.com/user-attachments/assets/ab1c78a0-4c08-4420-87b6-6ed923b7c0d2 width="600" height="600"><br>
+            <img src= https://github.com/user-attachments/assets/ab1c78a0-4c08-4420-87b6-6ed923b7c0d2 width="600" height="500"><br>
         </td>
     </tr>
 </table>
