@@ -136,7 +136,7 @@
     <tr>
         <td>
             로그인 <br>
-            <img src= ![asas](https://github.com/user-attachments/assets/ad43e916-18b3-4904-b9ce-661345b9adb2) width="400" height="400"><br>
+            <img src= https://github.com/user-attachments/assets/6d2fef20-ac58-45ad-b72c-4e387f0243a3 width="400" height="400"><br>
         </td>
     </tr>
 </table>
