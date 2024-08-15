@@ -135,7 +135,8 @@
 
 ## 🎨 아키텍처
 
-![image](https://github.com/user-attachments/assets/d183f2de-f708-4a4f-be08-941dc352bf7e)
+![image](https://github.com/user-attachments/assets/49e9ca29-90dd-42df-b5df-7e61ee642709)
+
 
 
 가봤저니와 함께 즐거운 여행 리뷰를 작성해보세요! 💙🚗📸📝
