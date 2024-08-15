@@ -18,34 +18,38 @@
 
 ## 🔗 배포
 
-- 배포 URL : http://34.139.2.91:8080/
-- 정지 계정 아이디 test11 & 비밀번호 Test1234!
-- 어드민 관리자 계정 아이디 test10 & 비밀번호 Test1234!
+#### 배포 URL : [🌟가봤저니](http://34.139.2.91:8080/)
+정지 계정 아이디 test11 & 비밀번호 Test1234! <br>
+어드민 관리자 계정 아이디 test10 & 비밀번호 Test1234!
+
 
 ## ✨ 주요 기능
 
-- **📝 여행지 리뷰 작성**: 여행지 리뷰 작성 및 사진 업로드
-- **🔍 리뷰 검색 및 탐색**: 다양한 필터를 통한 리뷰 검색
-- **🌟 추천 여행지**: 리뷰 기반 TOP 여행지 게시
+📝**여행지 리뷰 작성**: 여행지 리뷰 작성 및 사진 업로드<br>
+🔍**리뷰 검색 및 탐색**: 다양한 필터를 통한 리뷰 검색<br>
+🌟**추천 여행지**: 리뷰 기반 TOP 여행지 게시
 
 ## 🧰 사용 기술
 
-- **프론트엔드**: 
+**프론트엔드**
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </p>
-- **백엔드**: 
+  
+**백엔드** 
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   </p>
-- **데이터베이스**: 
+  
+**데이터베이스** 
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   </p>
-- **빌드 도구**: 
+  
+**빌드도구** 
   <p>
     <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
   </p>
